@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ババロア (Bavaroa)",
+  "base_artist": "TAK",
+  "createdAt": "2026-02-12T10:58:10.082311Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ババロア (Bavaroa) (feat. Hatsune Miku)",
+      "artist": "Tak",
+      "has_synced": false,
+      "path": "select/01_ババロア_(Bavaroa)_(feat._Hatsune_Miku)_Tak.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ババロア (Bavaroa) (feat. Hatsune Miku)",
+      "artist": "TAK, 初音ミク",
+      "has_synced": false,
+      "path": "select/pl_01_ババロア_(Bavaroa)_(feat._Hatsune_Miku)_TAK,_初音ミク.txt"
+    }
+  ]
+}
